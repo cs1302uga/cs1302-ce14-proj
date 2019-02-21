@@ -27,8 +27,9 @@ command depends on your present working directory), then please note that contex
    $ git clone --depth 1 https://github.com/cs1302uga/cs1302-ce14.git
    ```
 
-1. Change into the `cs1302-ce14` directory that was just created and look around. There is nothing
-   here! Execute the following command for more details:
+1. Change into the `cs1302-ce14` directory that was just created and look around. 
+   **There is nothing here exept the `README.md` file!** 
+   Execute the following command for more details:
    
    ```
    $ cat /home/grads/mec/cs1302-ce14.md
