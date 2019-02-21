@@ -1,7 +1,7 @@
 # cs1302-ce14 Or is it?
 
-> Be careful what you wish for, lest it come true.
-> **--Chinese Proverb**
+> Curiouser and curiouser!
+> **--Alice, _Alice in Wonderland_ by Lewis Carroll**
 
 This class exercise introduces students to a flexible class period.
 
