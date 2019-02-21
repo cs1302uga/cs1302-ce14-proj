@@ -21,13 +21,13 @@ command depends on your present working directory), then please note that contex
 
 ### Getting Started
 
-1. Use Git to clone the repository for this exercise onto Nike into a subdirectory called `cs1302-ce13`:
+1. Use Git to clone the repository for this exercise onto Nike into a subdirectory called `cs1302-ce14-proj`:
 
    ```
-   $ git clone --depth 1 https://github.com/cs1302uga/cs1302-ce14.git
+   $ git clone --depth 1 https://github.com/cs1302uga/cs1302-ce14-proj.git
    ```
 
-1. Change into the `cs1302-ce14` directory that was just created and look around. 
+1. Change into the `cs1302-ce14-proj` directory that was just created and look around. 
    **There is nothing here exept the `README.md` file!** 
    Execute the following command for more details:
    
